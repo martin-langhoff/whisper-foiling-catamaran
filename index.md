@@ -14,10 +14,11 @@ We put the boat on an incline, on the beach dolly just aft of the foils, stern o
 
 Captain will push the mast up, similar to the video, all the way through. Crew starts holding the mast down so it doesn't snap off the ball. Once the mast has some angle, crew moves from holding the mast down to pulling the lines; this stabilizes the mast and gives the capt a break between pushes. 
 
-### Rig tension
+### Rig
 
-* _Why does the manual say: first the the rake, and *then* set the tension with the under-the-trampoline rig? How can one get decent tension pulling with bare hands?_
-* Will be installing stay plates li
+* _Why does the manual say: first set the mast rake, and *then* set the tension with the under-the-trampoline rig? How can one get decent tension pulling with bare hands?_
+* Will be installing these to manage stay tension - https://shop.hamiltonmarine.com/products/adjuster-lever--25-qr-up-to-1-8--wire-wl-1800--20260.html 
+* Painted the ends of the two screws in the forestay adjuster, inside the thread, with a permanent marker. When easing, this gives you fair warning before your run out of screw... we also tie it up before easing.
 
 ### Foils
 
