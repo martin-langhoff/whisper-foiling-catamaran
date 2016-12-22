@@ -16,22 +16,25 @@ Captain will push the mast up, similar to the video, all the way through. Crew s
 
 ### Rig
 
-* _Why does the manual say: first set the mast rake, and *then* set the tension with the under-the-trampoline rig? How can one get decent tension pulling with bare hands?_
 * Will be installing these to manage stay tension - https://shop.hamiltonmarine.com/products/adjuster-lever--25-qr-up-to-1-8--wire-wl-1800--20260.html 
 * Painted the ends of the two screws in the forestay adjuster, inside the thread, with a permanent marker. When easing, this gives you fair warning before your run out of screw... we also tie it up before easing.
+* _Why does the manual say: first set the mast rake, and *then* set the tension with the under-the-trampoline rig? How can one get decent tension pulling with bare hands?_
+* Good discussino on fitting stuff to a carbon mast / rig - http://forums.sailinganarchy.com/index.php?showtopic=91747 - screws, rivets, epoxy...
 
 ### Foils
 
 * White Formula ships the bungees in the foils untied so they don't stretch. You must pull them a bit tight and make a knot.
-* _How do you assess / set the trim for ride height with the foils inserted and out of the water???_
+* _How do you assess / set the trim for ride height with the foils inserted??? Two scenarios:_
+  * foils pulled up (ie: with the boat out of the water)
+  * with the foils fully down (ie: when stopped, in the water)
 
 ### Rudders
 
-* The rudders are not identical! The hole for the pin only lines up when you've put them right. We found this (and fixed this) when we were deep in the water. 
+* The rudders are not identical. The hole for the pin only lines up when you've put them right. We found this (and fixed this) when we were deep in the water. 
 
 ### Main / Boom
 
-* Hoisting/lowering is similar to many hobies and nacras -- there's a ring on the halyard, and a hook on the mast. This may need some practice and/or adjustments. 
+* Hoisting/lowering is similar to many hobies and nacras -- there's a ring on the halyard, and a hook on the mast. This may need some practice and/or adjustments. Technique here - http://www.hobiecat.com/forums/viewtopic.php?t=371
 * The Harken ratchamatic block wears out. Harken may offer replacement. 
 
 
