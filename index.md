@@ -43,6 +43,7 @@ Captain will push the mast up, similar to the video, all the way through. Crew s
 * The ratchamatic block position doesn't give enough grip (the sheet doesn't wrap around it enough) when held by the crew standing a bit forward.
 * Running aground is a PITA. The foils are very sturdy however, and our sandy/grassy bottom has not damaged them.
 * Really needs a beach to handle all the foil setup. Ramps have not been practical so far; and the foils extending outwards make any dock approach dangeorous.
+* Jib halyard setup is a PITA. We lose the halyard and have to lower the mast way too often.
 
 
 ## Log
