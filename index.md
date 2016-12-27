@@ -48,8 +48,9 @@ Captain will push the mast up, similar to the video, all the way through. Crew s
 
 ## Log
 
-* Changed carbon striker -- after a ton of drilling and hammering to make it fit
-* Changed stay tensioners, new ones have levers
+* Changed carbon striker -- after a ton of drilling and hammering to make it fit. Mfg sent a replacement part, as it had arrived broken.
+* Changed stay tensioners, new ones have levers for easier tensioning.
 * Fixed boom cleat with SS rivets, using nuts to as spacer for riveter
 * Fixed wand after breakage
 * Changed worn out ratchamatic
+* Replaced mast rotator -- carbon part broke on accidental mast fall.
