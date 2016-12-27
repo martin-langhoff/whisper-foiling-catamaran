@@ -20,13 +20,13 @@ Captain will push the mast up, similar to the video, all the way through. Crew s
 * Painted the ends of the two screws in the forestay adjuster, inside the thread, with a permanent marker. When easing, this gives you fair warning before your run out of screw... we also tie it up before easing.
 * _Why does the manual say: first set the mast rake, and *then* set the tension with the under-the-trampoline rig? How can one get decent tension pulling with bare hands?_
 * Good discussino on fitting stuff to a carbon mast / rig - http://forums.sailinganarchy.com/index.php?showtopic=91747 - screws, rivets, epoxy...
+* Running a ropes / lines through very tight holes/fittings http://www.kiteforum.com/viewtopic.php?t=2391516 
 
 ### Foils
 
 * White Formula ships the bungees in the foils untied so they don't stretch. You must pull them a bit tight and make a knot.
-* _How do you assess / set the trim for ride height with the foils inserted??? Two scenarios:_
-  * foils pulled up (ie: with the boat out of the water)
-  * with the foils fully down (ie: when stopped, in the water)
+* How do you assess / set the trim for ride height with the foils inserted, and pulled up, boat out of the water?
+  * Folks at WhiteFormula say the "3mm" measurement should be made between the control surface and the foil, at the outermost point of the control surface, should be a 3mm gap with the control surface pointing up.
 
 ### Rudders
 
@@ -43,3 +43,12 @@ Captain will push the mast up, similar to the video, all the way through. Crew s
 * The ratchamatic block position doesn't give enough grip (the sheet doesn't wrap around it enough) when held by the crew standing a bit forward.
 * Running aground is a PITA. The foils are very sturdy however, and our sandy/grassy bottom has not damaged them.
 * Really needs a beach to handle all the foil setup. Ramps have not been practical so far; and the foils extending outwards make any dock approach dangeorous.
+
+
+## Log
+
+* Changed carbon striker -- after a ton of drilling and hammering to make it fit
+* Changed stay tensioners, new ones have levers
+* Fixed boom cleat with SS rivets, using nuts to as spacer for riveter
+* Fixed wand after breakage
+* Changed worn out ratchamatic
