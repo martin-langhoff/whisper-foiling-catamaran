@@ -8,19 +8,34 @@ A state of the art performance catamaran has lots of tricks and details; a foili
 
 ### Standing and lowering a mast
 
-You can stand and lower the mast with just two people. The technique is seen in this youtube video https://www.youtube.com/watch?v=jxctIJVOAd0 ; instead of the forestay, we use the trapeze wires, extended with ropes that we run through pulleys attached at the bridle wire hooking points, and made fast in the cleats available near the mast.
+You can stand and lower the mast with just two people. The technique is seen in this youtube video https://www.youtube.com/watch?v=jxctIJVOAd0 ; with the following notes:
 
-We put the boat on an incline, on the beach dolly just aft of the foils, stern on the ground.
+* use the trapeze wires, extended with ropes that run through pulleys attached at the bridle wire hooking points, and made fast in the 2 cam cleats by the mast (jib sheet, spinnaker tack)
+* put the boat on an incline, on the beach dolly just aft of the foils, stern on the ground.
+* Captain pushes the mast up, similar to the video, all the way through. It's better to stand on the crossbeam than on the trampoline, though final push happens on the trampoline.
+* Crew starts holding the mast down so it doesn't snap off the ball (careful!). Once the mast has some angle, crew moves from holding the mast down to pulling the lines; this stabilizes the mast and gives the capt a break between pushes. 
 
-Captain will push the mast up, similar to the video, all the way through. Crew starts holding the mast down so it doesn't snap off the ball. Once the mast has some angle, crew moves from holding the mast down to pulling the lines; this stabilizes the mast and gives the capt a break between pushes. 
+It's also possible to do it with the stern up, it's harder to start, easier towards the end. 
 
 ### Rig
 
-* Will be installing these to manage stay tension - https://shop.hamiltonmarine.com/products/adjuster-lever--25-qr-up-to-1-8--wire-wl-1800--20260.html 
+* Installed these to manage stay tension - https://shop.hamiltonmarine.com/products/adjuster-lever--25-qr-up-to-1-8--wire-wl-1800--20260.html -- with them it's reasonably easy to get the right pressure on the rig.
 * Painted the ends of the two screws in the forestay adjuster, inside the thread, with a permanent marker. When easing, this gives you fair warning before your run out of screw... we also tie it up before easing.
-* _Why does the manual say: first set the mast rake, and *then* set the tension with the under-the-trampoline rig? How can one get decent tension pulling with bare hands?_
+* _Why does the manual say: first set the mast rake, and *then* set the tension with the under-the-trampoline rig? How can one get decent tension pulling with bare hands?_ Instead, what we do is:
+   * Set the forestay a bit longer than final position
+   * Open up the stay adjusters on the stays
+   * Pull and set the under trampoline bridle wire
+   * Close up the stay adjusters
+   * Measure tension
+   * Set forestay to desired position
+   * Measure tension
 * Good discussino on fitting stuff to a carbon mast / rig - http://forums.sailinganarchy.com/index.php?showtopic=91747 - screws, rivets, epoxy...
 * Running a ropes / lines through very tight holes/fittings http://www.kiteforum.com/viewtopic.php?t=2391516 
+* Put a stopper knot on the main halyard line.
+
+### Recovery
+
+This boat did not include a recovery line. However, the spinnaker line worked a charm, so we got an identical line. We tie it up in the middle, on the mast base. This provides two lines for recovery. When we need to use it, we tie a couple of knots on it. Doubles up as docking line.
 
 ### Hull, beach wheels, carbon repairs
 
